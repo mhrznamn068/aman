@@ -1,0 +1,45 @@
+/* style for index.html*/
+
+
+@media screen and (max-width:1024px)	{
+	body {
+	background-color: aliceblue;
+	height: 100%;
+
+}
+	}
+
+.header {
+	text-align: center;
+}
+
+#start {
+	width: 100%;
+    bottom-margin: 5px;
+}
+
+.address {
+	text-decoration-style: bold;
+	width: 400px;
+	float:left;
+}
+
+.contact {
+	text-align: center;
+	width: 150px;
+	float:left;
+
+}
+
+.email {
+	float: right;
+	width: 230px;
+	float:right;
+}
+
+.position {
+	border: 1px solid black;
+	height: 20px;
+	padding: 20px 0 0 5px;
+	font-weight: bold;
+}
